@@ -6,4 +6,6 @@ jobs:
       steps:
          - name: Print to console
            run: echo "Hello World from Aidana"
+         - name: Print my name
+           run: your name is Aidana
          
